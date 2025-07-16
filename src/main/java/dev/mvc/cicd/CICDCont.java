@@ -27,7 +27,7 @@ public class CICDCont {
       msg = "/cicd 호출됨, info 로그";
       log.info(msg);
     } else if (sw == 2) {
-      msg = "/cicd workflow 테스트";
+      msg = "/cicd workflow 테스트2";
       log.info(msg);
     }
     
